@@ -1,9 +1,15 @@
+.div{
+    display: inline-block;
+}
+
+
 .static-box{
     background-color: antiquewhite;
     position: static;
     top:100px;
     height: 100px;
     width: 100px;
+    display: inline-block;
 }
 
 
@@ -14,5 +20,16 @@
     right: 30px;
     height: 100px;
     width: 100px;
+    display: inline-block;
  
+}
+
+.absolute-box{
+    height: 100px;
+    width: 100px;  
+    background-color: blue;
+    position: absolute;
+    top:10px;
+    left:15;
+    display: inline-block;
 }
