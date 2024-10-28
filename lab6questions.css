@@ -45,3 +45,12 @@
     right: 10px;
 }
 
+
+.sticky-box{
+    background-color: rgb(49, 227, 9);
+    height: 100px;
+    width: 100px; 
+    display: inline-block;   
+   top:0px;
+}
+
