@@ -216,11 +216,10 @@ flex-container3{
     width: 200px;
     height:100px;  
     display: flex;
-    align-items: center;
     justify-content: center ;
     flex-wrap: wrap;
 }
-.box-1c{
+.box-1d {
     background-color: orchid; 
     font-size: 50px;
     width: 200px;
@@ -229,7 +228,7 @@ flex-container3{
 
 }
 
-.box-2c{
+.box-2d{
     background-color:orchid; 
     font-size: 50px;
     width: 200px;
@@ -238,12 +237,73 @@ flex-container3{
 
 }
 
-
-
-.box-3c{
+.box-3d{
     background-color:orchid; 
     font-size: 50px;
     width: 200px;
     height:100px;
+    display: inline-block;
+}
+
+.box-4d{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+}
+
+.box-5d{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+}
+
+.box-6d{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+}
+
+
+
+.align {
+    background-color: red; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;  
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    flex-wrap: wrap;
+}
+
+.box-1e {
+    background-color: orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+
+}
+
+.box-2e{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:300px;
+    display: inline-block;
+
+}
+
+.box-3e{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:200px;
     display: inline-block;
 }
