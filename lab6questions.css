@@ -347,4 +347,52 @@ flex-container3{
     display: inline-block;
 }
 
+.flex-grow {
+    background-color: red; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;  
+    display: flex;
+    align-content: center;
+    justify-content: center ;
+    flex-wrap: wrap;
+}
+
+.box-1f {
+    background-color: orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+    z-index: 1;
+
+}
+
+.box-2f{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+    z-index: 2;
+}
+
+.box-3f{
+    background-color:orchid; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: inline-block;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
 
