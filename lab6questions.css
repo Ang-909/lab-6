@@ -92,7 +92,41 @@
     z-index: index 2;
 }
 
+.flex-container{
+    background-color: pink; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;  
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.box-1a{
+    background-color: pink; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: flex;
+
+}
+
+.box-2a{
+    background-color: pink; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+  display: flex;
+
+}
 
 
 
+.box-3a{
+    background-color: pink; 
+    font-size: 50px;
+    width: 200px;
+    height:100px;
+    display: flex;
+}
 
