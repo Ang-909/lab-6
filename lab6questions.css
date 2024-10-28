@@ -1,0 +1,5 @@
+.static-box{
+    background-color: antiquewhite;
+    position: static;
+    top:100px
+}
