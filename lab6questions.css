@@ -1,5 +1,18 @@
 .static-box{
     background-color: antiquewhite;
     position: static;
-    top:100px
+    top:100px;
+    height: 100px;
+    width: 100px;
+}
+
+
+.relative-box{
+    background-color: aquamarine;
+    position: relative;
+    bottom: 20px;
+    right: 30px;
+    height: 100px;
+    width: 100px;
+ 
 }
